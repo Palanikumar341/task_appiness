@@ -1,0 +1,9 @@
+.text-brown{
+  color: #c2a271 !important;
+}
+.bg-form-light{
+  background-color: #f1dcb9 !important;
+}
+.btn-dark , .bg-dark{
+  background: linear-gradient(45deg,black,darkslategray);
+}
